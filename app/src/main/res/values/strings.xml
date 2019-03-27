@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">framePlayer</string>
+    <string name="savepath">directory name</string>
 </resources>

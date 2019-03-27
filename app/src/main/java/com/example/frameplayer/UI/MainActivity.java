@@ -1,7 +1,9 @@
-package com.example.frameplayer;
+package com.example.frameplayer.UI;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.frameplayer.R;
 
 public class MainActivity extends AppCompatActivity {
 
